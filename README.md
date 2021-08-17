@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AhmedSoliman92&color=blue&style=plastic)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSoliman92)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSoliman92&repo=blog-app-django&react)](https://github.com/AhmedSoliman92/blog-app-django&react)
+
+
+
 <!--
 **AhmedSoliman92/AhmedSoliman92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
