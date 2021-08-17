@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?AhmedSoliman92&color=green)
+![](https://komarev.com/ghpvc/?AhmedSoliman92&color=green&style=plastic)
 
 <!--
 **AhmedSoliman92/AhmedSoliman92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
