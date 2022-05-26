@@ -6,7 +6,7 @@
 ### 🎓  I'm an MSc Computer Science Engineering student at the University of Miskolc
 
 ### my portfolio
-https://ahmed-soliman.herokuapp.com
+https://ahmed-gh-soliman.herokuapp.com
 
 
 
